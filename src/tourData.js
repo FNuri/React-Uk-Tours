@@ -3,7 +3,7 @@ export const tourData = [
     id: 1,
     
     city: "london",
-    img: "./img/london.jpeg",
+    img: "https://images.unsplash.com/photo-1564676487888-8be98153b4a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
     name: "london royal palace tour",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
