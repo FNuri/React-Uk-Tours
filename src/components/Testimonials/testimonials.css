@@ -135,7 +135,9 @@ h11:after {
   
 }
 
-@media screen and (min-width: 768px) {
+@media only screen and (min-width: 3000px) {
+  /* styles for browsers larger than 960px; */
+
   .homestyling {
     display: grid;
     grid-template-columns: 2fr 3fr;
