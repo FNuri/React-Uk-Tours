@@ -4,6 +4,7 @@ import "../Testimonials/testimonials.css"
 
 export default function Home() {
   return (
+    <article className="homestyling">
     <div className="container container--narrow py-md-5">
       <h1 style={{textAlign: "center", padding: 20, fontFamily: "Pacifico", fontSize: 60, color: "#058a96"}}>Welcome to UK Tours</h1>
       <div>
@@ -46,7 +47,7 @@ export default function Home() {
 
       
     </div>
-    
+    </article>
   )
 }
 
