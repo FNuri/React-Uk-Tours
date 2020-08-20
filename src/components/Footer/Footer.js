@@ -12,11 +12,11 @@ class Footer extends React.Component {
 <div id="cont">
 <div className="social-link" class="footer_center">
 	   <h3>Contact Us</h3>
-     <a className="social-link" href="mailto:fowsinur@gmail.com" ><i style={{padding: 10, fontSize: 30, color: "blue"}} class="fas fa-envelope"></i></a>
-     <i style={{padding: 10, fontSize: 30, color: "blue"}} class="fab fa-twitter"></i>
-     <i style={{padding: 10, fontSize: 30, color: "blue"}} class="fab fa-facebook"></i>
-     <i style={{padding: 10, fontSize: 30, color: "blue"}}class="fab fa-instagram"></i>
-     <i style={{padding: 10, fontSize: 30, color: "blue"}}class="fab fa-linkedin-in"></i>
+     <a className="social-link" href="mailto:fowsinur@gmail.com" target="_blank" ><i style={{padding: 10, fontSize: 30, color: "blue"}} class="fas fa-envelope"></i></a>
+     <a className="social-link" href="https://twitter.com/" target="_blank"><i style={{padding: 10, fontSize: 30, color: "blue"}} class="fab fa-twitter"></i></a>
+     <a className="social-link" href="https://www.facebook.com/" target="_blank"><i style={{padding: 10, fontSize: 30, color: "blue"}} class="fab fa-facebook"></i></a>
+     <a className="social-link" href="https://www.instagram.com/?hl=en" target="_blank"><i style={{padding: 10, fontSize: 30, color: "blue"}}class="fab fa-instagram"></i></a>
+     <a className="social-link" href="https://www.linkedin.com/" target="_blank"><i style={{padding: 10, fontSize: 30, color: "blue"}}class="fab fa-linkedin-in"></i></a>
      
   
      
