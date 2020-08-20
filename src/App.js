@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar/Navbar"
 import About from "./components/About/About"
 import Home from "./components/Home/Home"
 import TourList from "./components/TourList"
+import Footer from "./components/Footer/Footer"
 
 class App extends React.Component {
   render () {
@@ -24,7 +25,7 @@ class App extends React.Component {
           <TourList/>
           </Route>
         </Switch>
-      
+        <Footer />
       </BrowserRouter>
     )
   }
