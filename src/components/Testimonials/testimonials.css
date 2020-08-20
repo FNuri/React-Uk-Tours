@@ -58,13 +58,25 @@ p.person {
   font-weight: 700;
   font-size: 1.5em;
 }
+
+p.person1 {
+  text-align: right;
+  color: #4cb6c1;
+  font-weight: 700;
+  font-size: 1.5em;
+}
 p.person:before {
   content: "\f007";
   font-family: FontAwesome;
   color: #2d2d2d;
   margin-right: .6em;
 }
-
+p.person1:before {
+  
+  font-family: FontAwesome;
+  color: #2d2d2d;
+  margin-right: .6em;
+}
 @media (min-width: 960px) {
   
    h11 {
