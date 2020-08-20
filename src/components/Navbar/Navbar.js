@@ -6,17 +6,18 @@ import {Link} from 'react-router-dom'
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <img src={logo} alt="city tours company"/>
+      <a style={{marginTop: -10}} href="/"><img src={logo} alt="city tours company"/> </a>
+      
       <ul className="nav-links">
-         <li>
-            <Link to="/" className="nav-link">
-               Home
-           </Link>
-        </li>
-
-        <li>
+      <li>
             <Link to="/Tours" className="nav-link">
                Tours
+           </Link>
+        </li>
+        
+         <li>
+            <Link to="/Testimonials" className="nav-link">
+               Testimonials
            </Link>
         </li>
 

@@ -1,0 +1,123 @@
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+section#testimonials {
+  overflow: visible;
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h11 {
+ 
+  font-family: Raleway, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 2.3em;
+  color: #a55959;
+  margin-left: 400px;
+  transition: font-size .5s ease;
+  padding-top: 40px;
+}
+
+.col {
+  width: 100%;
+  border-bottom: 1px solid #a55959;
+  overflow: visible;
+  position: relative;
+  padding: 3em;
+}
+
+.col:before {
+  
+  font-family: FontAwesome;
+  font-size: 5em;
+  /*color: rgba(72, 106, 140, .4);*/
+  color: rgba(76, 182, 193, .3);
+  z-index: -100;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  
+}
+
+p, li {
+  font-size: 1em;
+  line-height: 1.3em;
+}
+p.person {
+  text-align: right;
+  color: #4cb6c1;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+p.person:before {
+  content: "\f007";
+  font-family: FontAwesome;
+  color: #2d2d2d;
+  margin-right: .6em;
+}
+
+@media (min-width: 960px) {
+  
+   h11 {
+     font-size: 3em;
+   }
+  
+}
+
+@media (max-width: 450px) {
+
+  h11 {
+    font-size: 1.8em;
+    transition: font-size .5s ease;
+    text-align: center;
+  }
+
+}
+
+.img-container1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+ padding-top:20px;
+}
+
+.img-container2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+ padding-top:20px;
+}
+
+h11:after {
+  content:' ';
+  display:block;
+  border:2px solid #d0d0d0;
+  border-radius:4px;
+  -webkit-border-radius:4px;
+  -moz-border-radius:4px;
+  box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.style {
+  
+    font-family: "Droid Serif", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #efede6;
+    color: #2d2d2d;
+    margin: 0;
+    padding: 0;
+  
+}

@@ -8,6 +8,7 @@ import About from "./components/About/About"
 import Home from "./components/Home/Home"
 import TourList from "./components/TourList"
 import Footer from "./components/Footer/Footer"
+import Testimonials from "./components/Testimonials/Testimonials"
 
 class App extends React.Component {
   render () {
@@ -18,12 +19,16 @@ class App extends React.Component {
           <Route path="/" exact> 
           <Home/>
           </Route>
-          <Route path="/About"> 
-          <About/>
-          </Route>
           <Route path="/Tours"> 
           <TourList/>
           </Route>
+          <Route path="/Testimonials"> 
+          <Testimonials/>
+          </Route>
+          <Route path="/About"> 
+          <About/>
+          </Route>
+          
         </Switch>
         <Footer />
       </BrowserRouter>
