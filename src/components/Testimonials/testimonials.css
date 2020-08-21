@@ -97,9 +97,10 @@ p.person1:before {
 
 .img-container1 {
   display: block;
+  
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 30%;
  padding-top:20px;
 }
 
@@ -136,7 +137,6 @@ h11:after {
 }
 
 @media only screen and (min-width: 3000px) {
-  /* styles for browsers larger than 960px; */
 
   .homestyling {
     display: grid;

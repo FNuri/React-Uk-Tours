@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div className="container container--narrow py-md-5">
       
-    <h2 className="lead text-muted" style={{padding: 20, marginLeft: 400, fontFamily: 'Cherry Swash', fontSize: 60}}><strong>About Us</strong></h2> 
+    <h1 style={{textAlign: "center", paddingTop: 0, fontFamily: "Pacifico", fontSize: 60, color: "#058a96"}}>About Us</h1> 
     <p className="lead text-muted" style={{padding: 5, fontFamily: 'Cherry Swash'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis dolorum labore quisquam vel id dicta fuga! Ducimus, quo. Dolore commodi aliquid error veritatis consequuntur, excepturi cumque fuga eum incidunt doloremque?</p>
       <p className="lead text-muted" style={{padding: 5, fontFamily: 'Cherry Swash'}} >Lorem ipsum, dolor sit amet consectetur adipisicing elit. At qui enim rem totam voluptatum. Aut saepe temporibus, facilis ex a iste expedita minima dolorum dicta doloribus libero aliquid, quae maxime? Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat suscipit beatae eum, est soluta ducimus ratione et impedit sapiente, nihil, atque dignissimos adipisci? Totam atque officia quis voluptates sed veniam?</p>
       <p className="lead text-muted" style={{padding: 5, fontFamily: 'Cherry Swash'}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita voluptates quisquam possimus tenetur, dicta enim rerum quis, quaerat id nobis provident quo dolorum sapiente temporibus facere non repellendus consequatur cupiditate!</p>

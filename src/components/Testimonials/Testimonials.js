@@ -6,7 +6,7 @@ export default class Testimonials extends Component {
   render() {
     return (
       <section>
-        <h11 style={{textAlign: "center"}}>Customer Testimonials</h11>
+        <h1 style={{textAlign: "center", paddingTop: 40, fontFamily: "Pacifico", fontSize: 60, color: "#058a96"}}>Customer Testimonials</h1>
         <br className="mypage"/>
         <div className="img-container1">
           <img src="https://images.unsplash.com/photo-1582584169118-29f43e8b2261?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="city tour" />

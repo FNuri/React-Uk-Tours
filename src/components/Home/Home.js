@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <article className="homestyling">
     <div className="container container--narrow py-md-5">
-      <h1 style={{textAlign: "center", padding: 20, fontFamily: "Pacifico", fontSize: 60, color: "#058a96"}}>Welcome to UK Tours</h1>
+      <h1 style={{textAlign: "center", padding: 10, fontFamily: "Pacifico", fontSize: 60, color: "#058a96"}}>Welcome to UK Tours</h1>
       <div>
         <div className="img-container2">
           <img src="https://images.unsplash.com/photo-1546889645-c1ac9128578f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="city tour" />
