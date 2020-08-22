@@ -20,7 +20,7 @@ export default class Testimonials extends Component {
 
 
   <div className="img-container1">
-          <img src="https://images.unsplash.com/photo-1564676487888-8be98153b4a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="city tour" />
+     <img src="https://images.unsplash.com/photo-1541163410512-5e1038878093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="Royal Palace" />
         </div>
 
     <div className="col">

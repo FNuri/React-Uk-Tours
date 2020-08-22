@@ -3,10 +3,10 @@ export const tourData = [
     id: 1,
     
     city: "london",
-    img: "https://images.unsplash.com/photo-1564676487888-8be98153b4a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+    img: "https://images.unsplash.com/photo-1541163410512-5e1038878093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=300",
     name: "london royal palace tour",
     info:
-      "The London Royal Palace Pass is your passport to travel back to a time when royalty reigned the United Kingdom. Get a free, one-time access to 4 historic royal palaces - Tower of London, Hampton Court Palace, Kensington Palace and Banqueting House and learn all about the years of British monarchy. This Pass is designed to give you a royal London experience and combines the best London sightseeing, beauty, history and art resulting in an authentic British royal experience!. With this Pass you have the liberty to explore the palaces independently and visit the Royal Palaces at your convenience without being restricted to a fixed itinerary. There's no better pass for a person looking to delve into the British history!"
+      "The London Royal Palace Pass is your passport to travel back to a time when royalty reigned the United Kingdom. Get a free, one-time access to 4 historic royal palaces - Tower of London, Hampton Court Palace, Kensington Palace and Banqueting House and learn all about the years of British monarchy. This Pass is designed to give you a royal London experience and combines the best London sightseeing, beauty, history and art resulting in an authentic British royal experience!"
   },
   
   {

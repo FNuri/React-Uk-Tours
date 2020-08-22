@@ -18,7 +18,7 @@ export default function Home() {
       
       </div>
       <div className="img-container2">
-          <img src="https://images.unsplash.com/photo-1582584169118-29f43e8b2261?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="city tour" />
+          <img src="https://images.unsplash.com/photo-1582584169118-29f43e8b2261?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="Kirkstall Abbey" />
         </div>
         <p style={{marginRight: 805, padding: 20,}} className="person1">Kirkstall Abbey</p>
     <div className="col">
@@ -27,7 +27,7 @@ export default function Home() {
     
   </div>
   <div className="img-container2">
-          <img src="https://images.unsplash.com/photo-1564676487888-8be98153b4a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="city tour" />
+          <img src="https://images.unsplash.com/photo-1541163410512-5e1038878093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="Royal Palace" />
         </div>
         <p style={{marginRight: 740, padding: 20,}} className="person1">London Royal Palace</p>
     <div className="col">
@@ -37,7 +37,7 @@ export default function Home() {
 
 
   <div className="img-container2">
-          <img src="https://images.unsplash.com/photo-1597588795310-d7e799ca9ca2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="city tour" />
+          <img src="https://images.unsplash.com/photo-1597588795310-d7e799ca9ca2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="The Needles" />
         </div>
         <p style={{marginRight: 840, padding: 20,}} className="person1">The Needles</p>
     <div className="col">
