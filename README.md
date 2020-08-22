@@ -2,7 +2,7 @@
 
 This is a fully responsive website for a UK tours company. I used html, CSS, SASS, JavaScript and React.js to make this Single Page Application (SPA). All elements in this website are nicely connected together and fully functional. The aim of creating this website was to practice my React.js skills. 
 
-![EscapeTheLion Website Screenshot](https://github.com/FNuri/Fanur-Technology-Website/blob/master/fnurimages/Escape%20the%20Lion%20Game%20Screenshot.png)
+![UK Tours Website Screenshot](https://github.com/FNuri/Fanur-Technology-Website/blob/master/fnurimages/UkToursScreenshot.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
